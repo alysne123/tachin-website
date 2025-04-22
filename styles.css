@@ -18,7 +18,7 @@ body {
 .logo-header {
   display: flex;
   justify-content: center; /* Center logo horizontally */
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .logo {
