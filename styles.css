@@ -1,9 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   margin: 0;
   padding: 2rem;
   background-color: #fff;
-  color: #222;
+  color: #1a1a1a; /* Soft black */
 }
 
 .container {
@@ -25,13 +25,18 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-weight: 800; /* Extra Bold */
+  font-size: 3rem;
+  line-height: 3.75rem;
+  color: #1a1a1a; /* Soft black */
   margin-bottom: 1rem;
 }
 
 .subheading {
-  font-weight: bold;
-  font-size: 1.2rem;
+  font-weight: 500; /* Medium */
+  font-size: 1.3rem;
+  line-height: 1.75rem;
+  color: #1a1a1a; /* Soft black */
 }
 
 a {
