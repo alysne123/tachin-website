@@ -16,9 +16,11 @@ body {
 }
 
 .logo-header {
-  display: flex;
-  justify-content: center; /* Center logo horizontally */
-  margin-bottom: 1rem;
+  font-weight: 600;
+  font-size: 3.5rem;
+  line-height: 4.25rem;
+  color: #2e2e2e;
+  margin-bottom: 2rem;
 }
 
 .logo {
